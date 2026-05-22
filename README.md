@@ -27,7 +27,3 @@ pip install -r project2/requirements.txt
 ```bash
 streamlit run project2/app.py
 ```
-
-### Notes
-- This folder is intentionally isolated from `project/` so the AtlasDocs app can run independently.
-- `resumes.py` is not included in `project2`; it remains in `project/` as a separate resume critique app.
